@@ -1,1 +1,3 @@
-const myStr = "\nFirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
+const myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
+
+"\n" characters not needed at the beginning of the line'-'
